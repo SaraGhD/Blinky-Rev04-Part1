@@ -2,8 +2,8 @@
 @file												 			  : Blinky.c
 																	  : Lab04 / Section 1
 																	  : Blinky LED using a defined delay_cycles function
-@author							         		 	  : Sara Ghorbani Dehkordi
-@role								         			  : Student - A01428439
+@author							         		 	  : Sara GhD
+@role								         			  : Student
 @company							       			  : BCIT
 *---------------------------------------------------------------------------------------------------------*
 @system														  : STM32F429I DISCOVERY board
